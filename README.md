@@ -1,7 +1,7 @@
 # Portfolio-app-design
 Simple design with prototype done in Adobe Xd for a mobile application showing user portfolios. 
 
-Done while learning modern UI/UX design and Adobe Xd. 
+Done while testing usage of Adobe Xd in modern UI/UX design. 
 
 ## Main page
 
